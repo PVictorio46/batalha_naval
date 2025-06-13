@@ -1,0 +1,53 @@
+17
+Batalha Naval
+BATALHA NAVAL
+Jogador 1
+Jogador 2
+Restam
+pecas do
+1 - Sim.
+2 - Nao.
+1 - Horizontal.
+2 - Vertical.
+O jogador
+Venceu!!!
+1 - Jogar.
+3 - Sair.
+
+12
+Deseja jogar novamente?
+Digite o nome do primeiro jogador, ou ENTER para default.
+Digite o nome do segundo jogador, ou ENTER para default.
+Digite o numero de jogadores:  (1-2)
+Digite o nivel de dificuldade: (1-3)
+Deseja preenchimento automatico?
+Digite a linha do
+Digite a coluna do
+Digite a orientacao do
+Digite a linha que quer atacar.
+Digite a coluna que quer atacar.
+Digite o numero barco.
+7
+Tente novamente.
+Entrada invalida.
+Todos os
+ja foram usados.
+ultrapassa os limites do mapa.
+sobrepoe aliado.
+Voce ja atirou aqui.
+5
+Corveta
+Submarino
+Fragata
+Cruzador
+Porta Aviões
+4
+Belo tiro!
+Na mosca!
+Acertou!
+Cabum!
+4
+Água!
+Errou!!
+Splash!
+Assustou os peixes...
